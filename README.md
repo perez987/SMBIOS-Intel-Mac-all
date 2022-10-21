@@ -1,6 +1,6 @@
 # Intel Mac SMBIOS (all but Apple Silicon)
 
-Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/360107187672055819) by Cobo ([corpnewt](https://github.com/corpnewt)) who has made a great work.
+Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/360107187672055819) by Cobo ([corpnewt](https://github.com/corpnewt)) who has all the work.
  
  | SMBIOS ID      | CPU Family   | GPUs                          | Year/Size  | Min/Max OS               |
  | :--            | :--          | :--                           | :--            | :--                      |

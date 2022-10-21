@@ -2,7 +2,7 @@
 
 Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/360107187672055819) by Cobo ([corpnewt](https://github.com/corpnewt))
  
- | SMBIOS ID      | CPU Family   | GPUs                          | Year and Size  | Min/Max OS               |
+ | SMBIOS ID      | CPU Family   | GPUs                          | Year/Size  | Min/Max OS               |
  | :--            | :--          | :--                           | :--            | :--                      |
  | MacBook        | -            | -                             | -              | -                        |
  | MacBook1,1     | Yonah        | GMA 950                       | 13" 2006       | 10.4.6 (8I2025) / 10.6.8 |

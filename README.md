@@ -1,4 +1,4 @@
-# Intel Mac SMBIOS (all but XServe and Apple Silicon)
+# Intel Mac SMBIOS (all but XServe)
 
 Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/360107187672055819) by Cobo ([corpnewt](https://github.com/corpnewt))
  

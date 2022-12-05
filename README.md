@@ -4,7 +4,7 @@ Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/36
  
  | SMBIOS ID      | CPU Family   | GPUs                          | Size/Year      | Min/Max OS        |
  | :--            | :--          | :--                           | :--            | :--               |
- | <u>MacBook</u> |
+ | <ins>MacBook</ins> |
  | MacBook1,1     | Yonah        | GMA 950                       | 13" 2006       | 10.4.6 / 10.6.8   |
  | MacBook2,1     | Merom        | GMA 950                       | 13" 2006/07    | 10.4.8 / 10.7.5   |
  | MacBook3,1     | Merom        | GMA X3100                     | 13" 2007       | 10.5 / 10.7.5     |

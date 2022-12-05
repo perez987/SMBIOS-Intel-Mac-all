@@ -4,7 +4,7 @@ Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/36
  
  | SMBIOS ID      | CPU Family   | GPUs                          | Size/Year      | Min/Max OS        |
  | :--            | :--          | :--                           | :--            | :--               |
- | MacBook        |
+ | _MacBook_        |
  | MacBook1,1     | Yonah        | GMA 950                       | 13" 2006       | 10.4.6 / 10.6.8   |
  | MacBook2,1     | Merom        | GMA 950                       | 13" 2006/07    | 10.4.8 / 10.7.5   |
  | MacBook3,1     | Merom        | GMA X3100                     | 13" 2007       | 10.5 / 10.7.5     |
@@ -17,7 +17,7 @@ Source: [Hackintosh Paradise](https://discord.com/channels/186648463541272576/36
  | MacBook8,1     | Broadwell M  | HD 5300                       | 12" 2015       | 10.10.2 / 12.x    |
  | MacBook9,1     | Skylake M    | HD 515                        | 12" 2016       | 10.11.4 / 12.x    |
  | MacBook10,1    | Kaby Lake M  | HD 615                        | 12" 2017       | 10.12.5 / 13.x    |
- | MacBookAir     | -            | -                             | -              | -                 |
+ | _MacBookAir_     |
  | MacBookAir1,1  | Merom        | GMA X3100                     | 13" 2008       | 10.5.1 / 10.7.5   |
  | MacBookAir2,1  | Penryn       | GeForce 9400M                 | 13" 2008/09    | 10.5.5 / 10.11.x  |
  | MacBookAir3,1  | Penryn       | GeForce 320M                  | 11" 2010       | 10.6.4 / 10.13.x  |

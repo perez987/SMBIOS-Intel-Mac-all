@@ -54,9 +54,9 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacBookPro9,2  | Ivy Bridge   | HD 4000                       | 13" 2012       | 10.7.3 / 10.15.x  |
  | MacBookPro10,1 | Ivy Bridge   | HD 4000/GeForce GT 650M       | 15" 2012/13    | 10.7.4 / 10.15.x  |
  | MacBookPro10,2 | Ivy Bridge   | HD 4000                       | 13" 2012/13    | 10.8.2 / 10.15.x  |
- | MacBookPro11,1 | Haswell      | Iris 5100                     | 13" 2013/14    | 10.9 / 12.x       |
- | MacBookPro11,2 | Haswell      | Iris Pro 5200                 | 15" 2013/14    | 10.9 / 12.x       |
- | MacBookPro11,3 | Haswell      | Iris Pro 5200/GeForce GT 750M | 15" 2013/14    | 10.9 / 12.x       |
+ | MacBookPro11,1 | Haswell      | Iris 5100                     | 13" 2013/14    | 10.9 / 11.x       |
+ | MacBookPro11,2 | Haswell      | Iris Pro 5200                 | 15" 2013/14    | 10.9 / 11.x       |
+ | MacBookPro11,3 | Haswell      | Iris Pro 5200/GeForce GT 750M | 15" 2013/14    | 10.9 / 11.x       |
  | MacBookPro11,4 | Haswell      | Iris Pro 5200                 | 15" 2015       | 10.10.3 / 12.x    |
  | MacBookPro11,5 | Haswell      | Iris Pro 5200/Radeon R9 M370X | 15" 2015       | 10.10.3 / 12.x    |
  | MacBookPro12,1 | Broadwell    | Iris 6100                     | 13" 2015       | 10.10.2 / 12.x    |
@@ -79,8 +79,8 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacPro2,1      | Clovertown   | GeForce 7300 GT               | 2006           | 10.4.9 / 10.7.5   |
  | MacPro3,1      | Harpertown   | Radeon HD 2600 XT             | 2008           | 10.5.1 / 10.11.x  |
  | MacPro4,1      | Nehalem      | GeForce GT 120                | 2009           | 10.5.6 / 10.11.x  |
- | MacPro5,1      | Nehalem      | Radeon HD 5770                | 2010           | 10.6.4 / 12.x     |
- | MacPro5,1      | Westmere     | Radeon HD 5770                | 2012           | 10.6.4 / 12.x     |
+ | MacPro5,1      | Nehalem      | Radeon HD 5770                | 2010           | 10.6.4 / 10.14.x     |
+ | MacPro5,1      | Westmere     | Radeon HD 5770                | 2012           | 10.6.4 / 10.14.x     |
  | MacPro6,1      | Ivy BridgeEP | FirePro D300                  | 2013           | 10.9.1 / 12.x     |
  | MacPro7,1      | CascadeLakeW | Radeon Pro 580X               | 2019           | 10.15.0 / 14.x    |
  | <ins>MacMini</ins> |
@@ -117,16 +117,16 @@ Source: Hackintosh Paradise by _corpnewt_
  | iMac14,1       | Haswell      | Iris Pro 5200                 | 21.5" 2013     | 10.8.4 / 10.15.x  |
  | iMac14,2       | Haswell      | GeForce GT 750M               | 27" 2013       | 10.8.4 / 10.15.x  |
  | iMac14,3       | Haswell      | GeForce GT 755M               | 21.5" 2013     | 10.8.4 / 10.15.x  |
- | iMac14,4       | Haswell      | HD 5000                       | 21.5" 2014     | 10.9.3 / 12.x     |
- | iMac15,1       | Haswell      | Radeon R9 M290X               | 27" 2014/15    | 10.10 / 12.x      |
+ | iMac14,4       | Haswell      | HD 5000                       | 21.5" 2014     | 10.9.3 / 11.x     |
+ | iMac15,1       | Haswell      | Radeon R9 M290X               | 27" 2014/15    | 10.10 / 11.x      |
  | iMac16,1       | Broadwell    | HD 6000 or Iris Pro 6200      | 21.5" 2015     | 10.11 / 12.x      |
  | iMac16,2       | Broadwell    | Iris Pro 6200                 | 21.5" 2015     | 10.11 / 12.x      |
  | iMac17,1       | Skylake      | Radeon R9 M380                | 27" 2015       | 10.11 / 12.x      |
  | iMac18,1       | Kaby Lake    | Iris Plus 640                 | 21.5" 2017     | 10.12.4 / 13.x    |
  | iMac18,2       | Kaby Lake    | Radeon Pro 555                | 21.5" 2017     | 10.12.4 / 13.x    |
  | iMac18,3       | Kaby Lake    | Radeon Pro 570                | 27" 2017       | 10.12.4 / 13.x    |
- | iMac19,1       | Coffee Lake  | Radeon Pro 570X               | 27" 2017       | 10.14.4 / 14.x    |
- | iMac19,2       | Coffee Lake  | Radeon Pro 555X               | 21.5" 2017     | 10.14.4 / 14.x    |
+ | iMac19,1       | Coffee Lake  | Radeon Pro 570X               | 27" 2019       | 10.14.4 / 14.x    |
+ | iMac19,2       | Coffee Lake  | Radeon Pro 555X               | 21.5" 2019     | 10.14.4 / 14.x    |
  | iMac20,1       | Comet Lake   | Radeon Pro 5300/5500 XT       | 27" 2020       | 10.15.6 / 14.x    |
  | iMac20,2       | Comet Lake   | Radeon Pro 5700/5700 XT       | 27" 2020       | 10.15.6 / 14.x    |
  | <ins>iMacPro</ins> |

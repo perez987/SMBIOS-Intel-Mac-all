@@ -31,7 +31,7 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacBookAir7,1  | Broadwell    | HD 6000                       | 11" 2015       | 10.10.2 / 12.x    |
  | MacBookAir7,2  | Broadwell    | HD 6000                       | 13" 2015       | 10.10.2 / 12.x    |
  | MacBookAir8,1  | Amber Lake Y | UHD 617                       | 13" 2018       | 10.14.1 / 14.x    |
- | MacBookAir9,1  | Ice Lake Y   | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 14.x    |
+ | MacBookAir9,1  | Ice Lake Y   | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 15.x    |
  | <ins>MacBookPro</ins> |
  | MacBookPro1,1  | Yonah        | Radeon X1600                  | 15" 2006       | 10.4.5 / 10.6.8   |
  | MacBookPro1,2  | Yonah        | Radeon X1600                  | 17" 2006       | 10.4.6 / 10.6.8   | 
@@ -66,23 +66,23 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacBookPro14,1 | Kaby Lake    | Iris Plus 640                 | 13" 2017       | 10.12.5 / 13.x    |
  | MacBookPro14,2 | Kaby Lake    | Iris Plus 650                 | 13" 2017       | 10.12.5 / 13.x    |
  | MacBookPro14,3 | Kaby Lake    | HD 630/Radeon Pro 555         | 15" 2017       | 10.12.5 / 13.x    |
- | MacBookPro15,1 | Coffee Lake  | UHD 630/Radeon Pro 555X       | 15" 2018       | 10.13.6 / 14.x    |
- | MacBookPro15,2 | Coffee Lake  | Iris Plus 655                 | 13" 2018       | 10.13.6 / 14.x    |
- | MacBookPro15,3 | Coffee Lake  | UHD 630/Radeon Pro Vega 16    | 15" 2018       | 10.14.1 / 14.x    |
- | MacBookPro15,4 | Coffee Lake  | Iris Plus 645                 | 13" 2019       | 10.14.5 / 14.x    |
- | MacBookPro16,1 | Coffee Lake  | UHD 630/Radeon Pro 5300       | 16" 2019       | 10.15.1 / 14.x    |
- | MacBookPro16,2 | Ice Lake     | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 14.x    |
- | MacBookPro16,3 | Coffee Lake  | Iris Plus 645                 | 13" 2020       | 10.15.4 / 14.x    |
- | MacBookPro16,4 | Coffee Lake  | UHD 630/Radeon Pro 5600       | 16" 2019       | 10.15.5 / 14.x    |
+ | MacBookPro15,1 | Coffee Lake  | UHD 630/Radeon Pro 555X       | 15" 2018       | 10.13.6 / 15.x    |
+ | MacBookPro15,2 | Coffee Lake  | Iris Plus 655                 | 13" 2018       | 10.13.6 / 15.x    |
+ | MacBookPro15,3 | Coffee Lake  | UHD 630/Radeon Pro Vega 16    | 15" 2018       | 10.14.1 / 15.x    |
+ | MacBookPro15,4 | Coffee Lake  | Iris Plus 645                 | 13" 2019       | 10.14.5 / 15.x    |
+ | MacBookPro16,1 | Coffee Lake  | UHD 630/Radeon Pro 5300       | 16" 2019       | 10.15.1 / 15.x    |
+ | MacBookPro16,2 | Ice Lake     | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 15.x    |
+ | MacBookPro16,3 | Coffee Lake  | Iris Plus 645                 | 13" 2020       | 10.15.4 / 15.x    |
+ | MacBookPro16,4 | Coffee Lake  | UHD 630/Radeon Pro 5600       | 16" 2019       | 10.15.5 / 15.x    |
  | <ins>MacPro</ins> |
  | MacPro1,1      | Woodcrest    | GeForce 7300 GT               | 2006           | 10.4.7 / 10.7.5   |
  | MacPro2,1      | Clovertown   | GeForce 7300 GT               | 2006           | 10.4.9 / 10.7.5   |
  | MacPro3,1      | Harpertown   | Radeon HD 2600 XT             | 2008           | 10.5.1 / 10.11.x  |
  | MacPro4,1      | Nehalem      | GeForce GT 120                | 2009           | 10.5.6 / 10.11.x  |
- | MacPro5,1      | Nehalem      | Radeon HD 5770                | 2010           | 10.6.4 / 10.14.x     |
- | MacPro5,1      | Westmere     | Radeon HD 5770                | 2012           | 10.6.4 / 10.14.x     |
+ | MacPro5,1      | Nehalem      | Radeon HD 5770                | 2010           | 10.6.4 / 10.14.x  |
+ | MacPro5,1      | Westmere     | Radeon HD 5770                | 2012           | 10.6.4 / 10.14.x  |
  | MacPro6,1      | Ivy BridgeEP | FirePro D300                  | 2013           | 10.9.1 / 12.x     |
- | MacPro7,1      | CascadeLakeW | Radeon Pro 580X               | 2019           | 10.15.0 / 14.x    |
+ | MacPro7,1      | CascadeLakeW | Radeon Pro 580X               | 2019           | 10.15.0 / 15.x    |
  | <ins>MacMini</ins> |
  | Macmini1,1     | Yonah        | GMA 950                       | 2006           | 10.4.5 / 10.6.8   |
  | Macmini2,1     | Merom        | GMA 950                       | 2007           | 10.4.10 / 10.7.5  |
@@ -94,7 +94,7 @@ Source: Hackintosh Paradise by _corpnewt_
  | Macmini6,1     | Ivy Bridge   | HD 4000                       | 2012           | 10.8.1 / 10.15.x  |
  | Macmini6,2     | Ivy Bridge   | HD 4000                       | 2012           | 10.8.1 / 10.15.x  |
  | Macmini7,1     | Haswell      | HD 5000 or Iris 5100          | 2014           | 10.10 / 12.x      |
- | Macmini8,1     | Coffee Lake  | UHD 630                       | 2018           | 10.14 / 14.x      |
+ | Macmini8,1     | Coffee Lake  | UHD 630                       | 2018           | 10.14 / 15.x      |
  | <ins>iMac</ins> |
  | iMac4,1        | Yonah        | Radeon X1600                  | 17"/20" 2006   | 10.4.4 / 10.6.8   |
  | iMac4,2        | Yonah        | GMA 950                       | 17" 2006       | 10.4.7 / 10.6.8   |
@@ -125,10 +125,10 @@ Source: Hackintosh Paradise by _corpnewt_
  | iMac18,1       | Kaby Lake    | Iris Plus 640                 | 21.5" 2017     | 10.12.4 / 13.x    |
  | iMac18,2       | Kaby Lake    | Radeon Pro 555                | 21.5" 2017     | 10.12.4 / 13.x    |
  | iMac18,3       | Kaby Lake    | Radeon Pro 570                | 27" 2017       | 10.12.4 / 13.x    |
- | iMac19,1       | Coffee Lake  | Radeon Pro 570X               | 27" 2019       | 10.14.4 / 14.x    |
- | iMac19,2       | Coffee Lake  | Radeon Pro 555X               | 21.5" 2019     | 10.14.4 / 14.x    |
- | iMac20,1       | Comet Lake   | Radeon Pro 5300/5500 XT       | 27" 2020       | 10.15.6 / 14.x    |
- | iMac20,2       | Comet Lake   | Radeon Pro 5700/5700 XT       | 27" 2020       | 10.15.6 / 14.x    |
+ | iMac19,1       | Coffee Lake  | Radeon Pro 570X               | 27" 2019       | 10.14.4 / 15.x    |
+ | iMac19,2       | Coffee Lake  | Radeon Pro 555X               | 21.5" 2019     | 10.14.4 / 15.x    |
+ | iMac20,1       | Comet Lake   | Radeon Pro 5300/5500 XT       | 27" 2020       | 10.15.6 / 15.x    |
+ | iMac20,2       | Comet Lake   | Radeon Pro 5700/5700 XT       | 27" 2020       | 10.15.6 / 15.x    |
  | <ins>iMacPro</ins> |
- | iMacPro1,1     | Skylake-W    | Vega 56                       | 27" 2017       | 10.13.2 / 14.x    |
+ | iMacPro1,1     | Skylake-W    | Vega 56                       | 27" 2017       | 10.13.2 / 15.x    |
  

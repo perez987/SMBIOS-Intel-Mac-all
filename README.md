@@ -70,10 +70,10 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacBookPro15,2 | Coffee Lake  | Iris Plus 655                 | 13" 2018       | 10.13.6 / 15.x    |
  | MacBookPro15,3 | Coffee Lake  | UHD 630/Radeon Pro Vega 16    | 15" 2018       | 10.14.1 / 15.x    |
  | MacBookPro15,4 | Coffee Lake  | Iris Plus 645                 | 13" 2019       | 10.14.5 / 15.x    |
- | MacBookPro16,1 | Coffee Lake  | UHD 630/Radeon Pro 5300       | 16" 2019       | 10.15.1 / 15.x    |
- | MacBookPro16,2 | Ice Lake     | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 15.x    |
- | MacBookPro16,3 | Coffee Lake  | Iris Plus 645                 | 13" 2020       | 10.15.4 / 15.x    |
- | MacBookPro16,4 | Coffee Lake  | UHD 630/Radeon Pro 5600       | 16" 2019       | 10.15.5 / 15.x    |
+ | MacBookPro16,1 | Coffee Lake  | UHD 630/Radeon Pro 5300       | 16" 2019       | 10.15.1 / 26.x    |
+ | MacBookPro16,2 | Ice Lake     | Iris Plus G4/G7               | 13" 2020       | 10.15.4 / 26.x    |
+ | MacBookPro16,3 | Coffee Lake  | Iris Plus 645                 | 13" 2020       | 10.15.4 / 26.x    |
+ | MacBookPro16,4 | Coffee Lake  | UHD 630/Radeon Pro 5600       | 16" 2019       | 10.15.5 / 26.x    |
  | <ins>MacPro</ins> |
  | MacPro1,1      | Woodcrest    | GeForce 7300 GT               | 2006           | 10.4.7 / 10.7.5   |
  | MacPro2,1      | Clovertown   | GeForce 7300 GT               | 2006           | 10.4.9 / 10.7.5   |
@@ -82,7 +82,7 @@ Source: Hackintosh Paradise by _corpnewt_
  | MacPro5,1      | Nehalem      | Radeon HD 5770                | 2010           | 10.6.4 / 10.14.x  |
  | MacPro5,1      | Westmere     | Radeon HD 5770                | 2012           | 10.6.4 / 10.14.x  |
  | MacPro6,1      | Ivy BridgeEP | FirePro D300                  | 2013           | 10.9.1 / 12.x     |
- | MacPro7,1      | CascadeLakeW | Radeon Pro 580X               | 2019           | 10.15.0 / 15.x    |
+ | MacPro7,1      | CascadeLakeW | Radeon Pro 580X               | 2019           | 10.15.0 / 26.x    |
  | <ins>MacMini</ins> |
  | Macmini1,1     | Yonah        | GMA 950                       | 2006           | 10.4.5 / 10.6.8   |
  | Macmini2,1     | Merom        | GMA 950                       | 2007           | 10.4.10 / 10.7.5  |
@@ -127,8 +127,8 @@ Source: Hackintosh Paradise by _corpnewt_
  | iMac18,3       | Kaby Lake    | Radeon Pro 570                | 27" 2017       | 10.12.4 / 13.x    |
  | iMac19,1       | Coffee Lake  | Radeon Pro 570X               | 27" 2019       | 10.14.4 / 15.x    |
  | iMac19,2       | Coffee Lake  | Radeon Pro 555X               | 21.5" 2019     | 10.14.4 / 15.x    |
- | iMac20,1       | Comet Lake   | Radeon Pro 5300/5500 XT       | 27" 2020       | 10.15.6 / 15.x    |
- | iMac20,2       | Comet Lake   | Radeon Pro 5700/5700 XT       | 27" 2020       | 10.15.6 / 15.x    |
+ | iMac20,1       | Comet Lake   | Radeon Pro 5300/5500 XT       | 27" 2020       | 10.15.6 / 26.x    |
+ | iMac20,2       | Comet Lake   | Radeon Pro 5700/5700 XT       | 27" 2020       | 10.15.6 / 26.x    |
  | <ins>iMacPro</ins> |
  | iMacPro1,1     | Skylake-W    | Vega 56                       | 27" 2017       | 10.13.2 / 15.x    |
  
